@@ -1,3 +1,5 @@
+Unity中改变序列化字段值并执行set操作：[SerializeField, SetProperty("Number")]
+
 SetProperty
 ===========
 
